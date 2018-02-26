@@ -1,0 +1,5 @@
+#!/bin/bash
+
+FILES="assets *.hbs package.json partials"
+
+zip -r -9 rel.zip $FILES

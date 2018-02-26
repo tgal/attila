@@ -1,8 +1,7 @@
 {
-  "name": "attila",
-  "description": "Ghost Theme",
-  "demo": "http://attila.zutrinken.com",
-  "version": "1.4.1",
+  "name": "Lena's Choice",
+  "description": "Ghost Theme based on https://github.com/zutrinken/attila.git",
+  "version": "1.0",
   "engines": {
     "ghost": ">=1.0.0"
   },
@@ -29,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zutrinken/attila.git"
+    "url": "https://github.com/tgal/lenas-choice"
   },
   "devDependencies": {
     "autoprefixer-core": "^6.0.1",
